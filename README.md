@@ -1,7 +1,7 @@
 ```markdown
 # Portfolio d'Amina Eddaoudi
 
-Bienvenue sur mon **portfolio personnel**, développé entièrement en **HTML et CSS**. Ce site présente mon profil, mes projets académiques, mes compétences et mes informations de contact.
+Bienvenue sur mon portfolio personnel, développé entièrement en HTML et CSS. Ce site présente mon profil, mes projets académiques, mes compétences et mes informations de contact.
 
 ---
 
@@ -25,19 +25,19 @@ Vous pouvez voir le portfolio en ligne ici :
 
 ```
 
-- **index.html** – Page d’accueil avec présentation rapide.  
-- **about.html** – Mon parcours et mes intérêts.  
-- **projects.html** – Mes projets académiques avec description et technologies utilisées.  
-- **skills.html** – Compétences techniques et systèmes maîtrisés.  
-- **contact.html** – Contact par email, LinkedIn et téléchargement / lecture du CV PDF.  
-- **assets/** – Contient votre photo (`amina.jpg`) et le CV (`CV-aeddaoudi.pdf`).
+- index.html – Page d’accueil avec présentation rapide.  
+- about.html – Mon parcours et mes intérêts.  
+- projects.html – Mes projets académiques avec description et technologies utilisées.  
+- skills.html – Compétences techniques et systèmes maîtrisés.  
+- contact.html – Contact par email, LinkedIn et téléchargement / lecture du CV PDF.  
+- assets/ – Contient votre photo (`amina.jpg`) et le CV (`CV-aeddaoudi.pdf`).
 
 ---
 
 ## 🎨 Technologies utilisées
 
-- **HTML5**  
-- **CSS3**  
+- HTML5  
+- CSS3  
 - Responsive design pour différents écrans  
 
 ---
@@ -46,7 +46,7 @@ Vous pouvez voir le portfolio en ligne ici :
 
 - Navigation entre les pages.  
 - Affichage des projets et compétences sous forme de cartes.  
-- Section contact avec **email**, **LinkedIn** et **CV PDF** à télécharger ou lire directement.  
+- Section contact avec email, LinkedIn et CV PDF à télécharger ou lire directement.  
 - Avatar personnalisé avec photo.  
 - Design simple, moderne et responsive.  
 
@@ -68,7 +68,7 @@ Ce projet est à usage personnel et éducatif.
 
 ---
 
-> Portfolio développé par **Amina Eddaoudi**.
+> Portfolio développé par Amina Eddaoudi.
 ```
 
----
+If you want, I can also **make it fully clean and professional for GitHub**, with all bolds, emojis, and code blocks correctly formatted. Do you want me to do that?
