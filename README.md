@@ -15,13 +15,12 @@ Vous pouvez voir le portfolio en ligne ici :
 
 ```
 
-/portfolio
-├── index.html      (Page d'accueil)
-├── about.html      (À propos / autobiographie)
-├── projects.html   (Projets académiques)
-├── skills.html     (Compétences techniques)
-├── contact.html    (Contact + CV)
-└── assets/         (Images, photo et CV PDF)
+/portfolio:
+ index.html      (Page d'accueil)
+ about.html      (À propos / autobiographie)
+ projects.html   (Projets académiques)
+ skills.html     (Compétences techniques)
+ contact.html    (Contact + CV)
 
 ```
 
