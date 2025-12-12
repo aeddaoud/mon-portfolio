@@ -70,4 +70,3 @@ Ce projet est à usage personnel et éducatif.
 > Portfolio développé par Amina Eddaoudi.
 ```
 
-If you want, I can also **make it fully clean and professional for GitHub**, with all bolds, emojis, and code blocks correctly formatted. Do you want me to do that?
