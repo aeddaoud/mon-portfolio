@@ -7,7 +7,7 @@ Bienvenue sur mon portfolio personnel, développé entièrement en HTML et CSS. 
 
 ## 🌐 Live Demo
 Vous pouvez voir le portfolio en ligne ici :  
-[https://s-eddaoudi.github.io/portfolio/](https://s-eddaoudi.github.io/portfolio/)
+[https://aeddaoud.github.io/mon-portfolio/]
 
 ---
 
