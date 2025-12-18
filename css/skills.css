@@ -1,0 +1,49 @@
+/* Styles spécifiques à la page skills.html */
+
+/* Fond spécifique */
+body {
+  background: linear-gradient(180deg, #020617, #020617);
+}
+
+/* Card des compétences */
+.card {
+  background: rgba(255, 255, 255, 0.04);
+  padding: 18px;
+  border-radius: var(--border-radius);
+  margin-top: 24px;
+}
+
+/* Titre h2 principal */
+main h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+/* Tags pour chaque compétence */
+.tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.tag {
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.tag:hover {
+  transform: translateY(-2px);
+  background: var(--accent);
+  color: black;
+}
+
+/* Responsive simple */
+@media (max-width: 768px) {
+  .tags {
+    gap: 6px;
+  }
+}

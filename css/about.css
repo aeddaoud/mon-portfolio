@@ -1,0 +1,18 @@
+/* Styles spécifiques à la page about.html (À propos) */
+
+/* Navigation spécifique à la page À propos */
+nav {
+  display: flex;
+  gap: 20px; /* espacement entre les liens uniquement sur À propos */
+}
+
+/* Card principale */
+main .card {
+  text-align: left;
+}
+
+/* Titres principaux */
+main h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}

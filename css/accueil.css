@@ -1,0 +1,33 @@
+/* Styles spécifiques à la page index.html (Accueil) */
+
+/* Fond ou effet particulier */
+body {
+  background: linear-gradient(180deg, #020617, #020617);
+}
+
+/* Card d’accueil */
+main .card {
+  text-align: left;
+}
+
+/* Animation simple sur le bouton */
+.btn {
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background: #a78bfa;
+  transform: translateY(-2px);
+}
+
+/* Accueil - h2 */
+main h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+/* Navigation spécifique à l'accueil */
+nav {
+  display: flex;
+  gap: 20px; /* espacement entre les liens uniquement sur accueil */
+}
