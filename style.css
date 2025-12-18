@@ -1,1 +1,65 @@
-
+:root{
+      --accent:#c4b5fd;
+      --bg:#000000;
+      --card:#0a0a0a;
+      --muted:#b8b8d4;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto;
+      color:#e5e7eb;
+      background:black;
+    }
+    .wrap{max-width:1000px;margin:40px auto;padding:24px}
+    header{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin-bottom:32px;
+    }
+    .logo{display:flex;gap:12px;align-items:center}
+    .avatar{
+      width:56px;
+      height:56px;
+      border-radius:14px;
+      overflow:hidden;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+    .avatar img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      border-radius:14px;
+    }
+    nav a{
+      margin-left:16px;
+      color:var(--accent);
+      text-decoration:none;
+      font-weight:600;
+    }
+    .card{
+      background:var(--card);
+      padding:22px;
+      border-radius:14px;
+    }
+    h1{margin:0;font-size:28px}
+    .muted{color:var(--muted)}
+    .btn{
+      display:inline-block;
+      margin-top:16px;
+      padding:8px 14px;
+      border-radius:8px;
+      background:var(--accent);
+      color:black;
+      font-weight:600;
+      text-decoration:none;
+    }
+    footer{
+      margin-top:40px;
+      text-align:center;
+      font-size:13px;
+      color:var(--muted);
+    }
