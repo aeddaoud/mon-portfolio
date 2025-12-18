@@ -56,13 +56,18 @@
       <section class="card">
         <h3>Mon CV</h3>
         <p class="muted">Téléchargez ou lisez mon CV au format PDF :</p>
-        <p><a href="CV-aeddaoudi.pdf" download>Télécharger le CV</a></p>
-        <iframe src="CV-aeddaoudi.pdf" width="50%" height="600px">
-          Votre navigateur ne supporte pas l’affichage des PDF. 
-          <a href="CV-aeddaoudi.pdf">Téléchargez le CV ici</a>.
-        </iframe>
+        <p><a href="CV-aeddaoudi.pdf" download class="btn">Télécharger le CV</a></p>
+      
+        <!-- Iframe styled via CSS -->
+        <iframe src="CV-aeddaoudi.pdf"></iframe>
+      
+        <!-- Fallback for unsupported browsers -->
+        <p class="muted">
+          Si votre navigateur ne supporte pas l’affichage des PDF, 
+          <a href="CV-aeddaoudi.pdf">téléchargez le CV ici</a>.
+        </p>
       </section>
-    </main>
+
 
     <!-- FOOTER -->
     <footer>
