@@ -17,7 +17,8 @@ https://aeddaoud.github.io/mon-portfolio/
 - projects.html — Projets académiques  
 - skills.html — Compétences techniques  
 - contact.html — Contact + CV  
-- amina.jpg  
+- images/amina.jpeg  
+- css - dossier des fichiers CSS 
 - CV-aeddaoudi.pdf  
 
 ---
